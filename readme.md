@@ -1,5 +1,3 @@
-Here's the updated **README.md** with your environment variable descriptions:
-
 ---
 
 # **Auth-JS-Token**
